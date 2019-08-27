@@ -1,0 +1,20 @@
+.bg-personalizado-nav {
+background-color: #0097A7;
+color: white;
+font-size : 15px;
+border-bottom : 1px solid black; 	
+padding: 16px;
+
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    color:white;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link {
+    color:white;
+}
+
+.navbar-light .navbar-toggler {
+	background: #0097A7;
+	border-color: #212121;
+}

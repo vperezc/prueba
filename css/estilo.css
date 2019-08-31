@@ -19,6 +19,7 @@ padding: 16px;
 	border-color: #212121;
 }
 
+<<<<<<< HEAD
 .carousel-item .item-1 {
   height: 500px;
 
@@ -66,4 +67,12 @@ text-align: center;
   color: white;
 
 
+=======
+.bg-servicios {
+background-color: #0097A7 !important;
+}
+
+.fc-servicios {
+  color : white ;
+>>>>>>> e3ef464401dd8e5c4322535152e6940e0b61cce0
 }

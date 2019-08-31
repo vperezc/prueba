@@ -2,7 +2,7 @@
 background-color: #0097A7;
 color: white;
 font-size : 15px;
-border-bottom : 1px solid black; 	
+border-bottom : 1px solid black;
 padding: 16px;
 
 }
@@ -17,4 +17,53 @@ padding: 16px;
 .navbar-light .navbar-toggler {
 	background: #0097A7;
 	border-color: #212121;
+}
+
+.carousel-item .item-1 {
+  height: 500px;
+
+  background-image: url("../image/item1.jpg");
+  background-size: cover;
+  background-position: 0% 45%;
+}
+.carousel-item .item-2 {
+  height: 500px;
+
+  background-image: url("../image/item2.jpg");
+  background-size: cover;
+  background-position: 0% 14%;
+}
+.carousel-item .item-3 {
+  height: 500px;
+
+  background-image: url("../image/item3.jpg");
+  background-size: cover;
+  background-position: 0% 35%;
+}
+
+.rescate-estilos h1{
+  color: #212121;
+}
+
+.rescate-estilos h3{
+  color: #757575;
+}
+
+.rescate-estilos p{
+  color: #BDBDBD;
+}
+
+.page-footer{
+  padding: 70px 0;
+  color: white;
+font-size: 20px;
+text-align: center;
+  background-color:#607D8B;
+}
+
+.page-footer a{
+
+  color: white;
+
+
 }

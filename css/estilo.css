@@ -67,3 +67,8 @@ text-align: center;
 
 
 }
+
+.bg-servicios {
+  color : white !important;
+  background-color :  #0097A7;
+}
